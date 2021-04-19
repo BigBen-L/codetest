@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "name": "WANDA MAXIMOFF",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/012scw_ons_crd_02.jpg",
+    "bio": "Notably powerful, Wanda Maximoff has fought both against and with the Avengers, attempting to hone her abilities and do what she believes is right to help the world."
+  },
+  {
+    "id": "1",
+    "name": "VISION",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/013vis_ons_crd_01-1.jpg",
+    "bio": "The android called Vision defies physics and fights as an Avenger with the power of density manipulation and his flawless computer brain."
+  },
+  {
+    "id": "2",
+    "name": "FALCON",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/014fal_ons_crd_03.jpg",
+    "bio": "Set with his signature mechanical wings, Sam Wilson teams up as an Avenger alongside his longtime partner Captain America."
+  },
+  {
+    "id": "3",
+    "name": "WINTER SOLDIER",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/015wsb_ons_crd_03.jpg",
+    "bio": "Bucky Barnes was brought back from his supposed death to be a brainwashed assassin called Winter Soldier. Reformed by his friends, he now fights alongside the Avengers."
+  },
+  {
+    "id": "4",
+    "name": "BLACK WIDOW",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/scarlet_ons_crd_01.jpg",
+    "bio": "Despite super spy Natasha Romanoff’s checkered past, she became one of S.H.I.E.L.D.’s most formidable agents before joining the Avengers."
+  },
+  {
+    "id": "5",
+    "name": "LOKI",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/017lok_ons_crd_02.jpg",
+    "bio": "God of Mischief and brother to Thor, Loki’s tricks and schemes wreak havoc across the realms."
+  },
+  {
+    "id": "6",
+    "name": "BLACK WIDOW",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/433ybv_com_crd_01.jpg",
+    "bio": "At age 15, Yelena was chosen as a candidate to become the new Black Widow, as Natasha Romanova was no longer loyal only to Russia."
+  },
+  {
+    "id": "7",
+    "name": "RED GUARDIAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/435rgd_com_crd_01.jpg",
+    "bio": "Through the Red Guardian, the Russians hoped to hone a national hero to represent them, just as Captain America (Steve Rogers) represented the USA."
+  },
+  {
+    "id": "8",
+    "name": "TASKMASTER",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/173tsk_com_crd_02.jpg",
+    "bio": "The Taskmaster is a skilled tactician, adept at martial arts thanks to his photographic reflexes, and a career criminal who trains hench-thugs for terrorist organizations and crimi"
+  },
+  {
+    "id": "9",
+    "name": "SHANG-CHI",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/242shc_com_crd_01.jpg",
+    "bio": "The undisputed Master of Kung Fu, Shang-Chi seeks peace and harmony in a weary world while opposing those who would tear it down."
+  },
+  {
+    "id": "10",
+    "name": "SPIDER-MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/037smm_com_crd_01.jpg",
+    "bio": "Emerging from a universe in need of a new Spider-Man, a Brooklyn teen named Miles Morales rose to the challenge. Reluctant at first, he quickly earned the mantle of a Super Hero."
+  },
+  {
+    "id": "11",
+    "name": "KNULL",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/03-knull_com_crd_01.jpg",
+    "bio": "The god of the abyss from the beginning of time, Knull has warred against the light, creating the Symbiotes to further his cause."
+  }
+]
